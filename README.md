@@ -2,7 +2,7 @@
 
 🚀 **Flutter Developer** with over 2 years of experience creating high-quality, user-focused mobile applications. I specialize in building scalable, performant solutions that deliver seamless user experiences.  
 
-[📄 **View My Resume**](https://github.com/akbarbasil/akbarbasil/blob/main/basil_resume.pdf)  
+<a href="https://github.com/akbarbasil/akbarbasil/blob/main/basil_resume.pdf" target="_blank">📄 View My Resume</a>
 
 ---
 
