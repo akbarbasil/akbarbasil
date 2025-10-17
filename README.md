@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Mahadum Akbar Basil  
 
-🚀 **Flutter Developer** with 2+ years of experience building beautiful, high-performance mobile apps.  
+🚀 **Flutter Developer** with 2.5+ years of experience building beautiful, high-performance mobile apps.  
 I love turning ideas into real products using **Flutter**, **Firebase**, and **cloud-powered automation** tools.  
 
 [📄 View My Resume](https://github.com/akbarbasil/akbarbasil/blob/main/basil_resume.pdf)
