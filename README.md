@@ -1,37 +1,36 @@
-# 👋 Hi, I'm Mahadum Akbar Basil!  
+# 👋 Hey, I'm Mahadum Akbar Basil  
 
-🚀 **Flutter Developer** with over 2 years of experience creating high-quality, user-focused mobile applications. I specialize in building scalable, performant solutions that deliver seamless user experiences.  
+🚀 **Flutter Developer** with 2+ years of experience building beautiful, high-performance mobile apps.  
+I love turning ideas into real products using **Flutter**, **Firebase**, and **cloud-powered automation** tools.  
 
-<a href="https://github.com/akbarbasil/akbarbasil/blob/main/basil_resume.pdf" target="_blank">📄 View My Resume</a>
-
----
-
-## 🌟 **Skills & Expertise**  
-
-### 🖥️ **Frontend**  
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)  
-
-### ⚙️ **Backend**  
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=Python&logoColor=white)  
-![FastAPI](https://img.shields.io/badge/FastAPI-005571.svg?style=for-the-badge&logo=FastAPI&logoColor=white)  
-
-### ☁️ **Cloud**  
-![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=Firebase&logoColor=black)  
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white)  
+[📄 View My Resume](https://github.com/akbarbasil/akbarbasil/blob/main/basil_resume.pdf)
 
 ---
 
-## 💡 **What Drives Me**  
-Passionate about innovation, collaboration, and leveraging AI technologies to shape the future of mobile development.  
+## 💙 Tech Stack
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4C89?style=for-the-badge&logo=n8n&logoColor=white)
 
 ---
 
-## 🌐 **Connect With Me**  
+## 💡 About Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mahadum%20Akbar%20Basil-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akbarbasil)  
-[![Medium](https://img.shields.io/badge/Medium-%40akbarbasil-black?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@akbarbasil)  
-[![GitHub](https://img.shields.io/badge/GitHub-%40akbarbasil-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akbarbasil)  
+💻 Passionate about **mobile innovation**, **AI automation**, and **cloud technologies**.  
+⚡ Enjoy simplifying workflows using **n8n** and building scalable mobile experiences.  
+🌱 Always learning new tech and contributing to open-source projects.  
 
 ---
 
-✨ Let’s create something amazing together! 🚀  
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Akbar%20Basil-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akbarbasil)  
+[![GitHub](https://img.shields.io/badge/GitHub-akbarbasil-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akbarbasil)  
+[![Medium](https://img.shields.io/badge/Medium-akbarbasil-black?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@akbarbasil)
+
+---
+
+✨ *Creating apps that inspire, automate, and scale.* 🚀
